@@ -5,3 +5,7 @@ https://csguide.cn/roadmap/basic/network_programming_learning_path.html#%E4%B8%8
 ubuntu安装 sublime
 
 https://blog.csdn.net/u012514113/article/details/124703433
+
+做简历
+
+https://www.bilibili.com/video/BV1iy4y1B7wE/?spm_id_from=333.337.search-card.all.click&vd_source=8924ad59b4f62224f165e16aa3d04f00
