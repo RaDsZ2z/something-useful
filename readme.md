@@ -6,10 +6,3 @@ https://csguide.cn/roadmap/basic/network_programming_learning_path.html#%E4%B8%8
 ```
 https://blog.csdn.net/u012514113/article/details/124703433
 ```
-# 3.C/CPP 使用 mysql.h
-```
-安装libmysqlclient-dev
-https://blog.csdn.net/qq_51048314/article/details/125380099
-编译指令
-gcc test.c -o run -L/user/lib/mysql -lmysqlclient
-```
