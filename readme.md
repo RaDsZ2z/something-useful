@@ -6,3 +6,7 @@ https://csguide.cn/roadmap/basic/network_programming_learning_path.html#%E4%B8%8
 ```
 https://blog.csdn.net/u012514113/article/details/124703433
 ```
+# 3.IO模型
+```
+https://www.cnblogs.com/luedong/p/16068490.html#io%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88
+```
