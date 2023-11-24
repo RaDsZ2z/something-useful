@@ -12,5 +12,5 @@ https://www.cnblogs.com/luedong/p/16068490.html#io%E5%88%B0%E5%BA%95%E6%98%AF%E4
 ```
 # V8
 ```
-https://news.sangniao.com/p/3849738168
+https://www.zhihu.com/people/v8blink/posts?page=3
 ```
