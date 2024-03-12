@@ -10,7 +10,12 @@ https://blog.csdn.net/u012514113/article/details/124703433
 ```
 https://www.cnblogs.com/luedong/p/16068490.html#io%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88
 ```
-# V8
+# 4.V8
 ```
 https://www.zhihu.com/people/v8blink/posts?page=3
 ```
+# 5. mac配置vscode
+```
+https://blog.csdn.net/qq_42366672/article/details/127090058
+```
+主要用来设置vscode语法检查的语言版本
