@@ -21,4 +21,8 @@ https://blog.csdn.net/qq_42366672/article/details/127090058
 主要用来设置vscode语法检查的语言版本
 # 6.下载github仓库
 目前用浏览器进github仓库要么只能下载整个仓库要么只能下载单个文件，如果我需要某个文件夹里的全部东西就不是很方便  
-[这个chrome插件](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?pli=1) 似乎能解决问题
+[这个chrome插件](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?pli=1) 
++ 访问 https://github.com/settings/tokens
++ 点击 Generate new token → Generate new token (classic) 创建一个token 并复制
+[img]()
+在弹出的输入框粘贴
