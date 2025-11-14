@@ -24,5 +24,5 @@ https://blog.csdn.net/qq_42366672/article/details/127090058
 [这个chrome插件](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?pli=1) 
 + 访问 https://github.com/settings/tokens
 + 点击 Generate new token → Generate new token (classic) 创建一个token 并复制  
-![img1](./img/img1.png)
+![img1](./img/img1.png)  
 在弹出的输入框内粘贴复制的内容  然后就可以正常使用了
